@@ -10,3 +10,4 @@ for i in range(c):
             cnt+=1
     result=(cnt/b[0])*100
     print("{:.3f}%".format(result))
+# 커밋
