@@ -5,5 +5,5 @@
 ![b](https://img.shields.io/github/last-commit/So-EunPark/python_study?style=for-the-badge)
 ![c](https://img.shields.io/github/commit-activity/m/So-EunPark/python_study?style=for-the-badge)
 
-### Baekjoon 단계별로 풀기 🔥🔥🔥
+### baekjoon 단계별로 풀기 🔥🔥🔥
 
